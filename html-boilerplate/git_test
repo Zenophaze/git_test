@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Zeno's Blog</title>
+    </head>
+    <body>
+        <h1>Highlight of my day</h1>
+        <h2>Morning</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Eget sit amet tellus cras adipiscing enim eu turpis egestas. 
+            Aliquet lectus proin nibh nisl condimentum id venenatis a. <em> erat pellentesque </em> commodo elit. Id venenatis a condimentum 
+            vitae sapien pellentesque habitant morbi. Cras adipiscing enim eu turpis egestas. <strong> purus </strong> amet luctus venenatis. Elementum 
+            pulvinar etiam non quam lacus suspendisse faucibus. Consectetur a erat nam at lectus. Dapibus ultrices in iaculis nunc sed augue lacus 
+            viverra. Vitae nunc sed velit dignissim sodales. Elementum tempus egestas sed sed risus. Tristique sollicitudin nibh sit amet. 
+            Pellentesque eu tincidunt tortor aliquam nulla facilisi.
+        </p>
+        <p>
+            Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Enim nulla aliquet porttitor lacus luctus accumsan. 
+            Pellentesque <em>elit ullamcorper dignissim cras tincidunt lobortis</em>. Tempus urna et pharetra pharetra massa massa ultricies. 
+            Pharetra sit amet aliquam id diam maecenas ultricies. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. 
+            Viverra justo <strong> ultrices dui sapien. <em>Proin libero nunc consequat interdum</em></strong>. In iaculis nunc sed augue. Urna condimentum mattis pellentesque id nibh tortor 
+            id aliquet lectus. Felis imperdiet proin fermentum leo vel. Duis convallis convallis tellus id interdum velit laoreet id. Ipsum nunc aliquet bibendum enim 
+            facilisis gravida neque. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Lacus vestibulum sed arcu non odio euismod. 
+            Aliquam sem et tortor consequat id. Id interdum velit laoreet id donec ultrices tincidunt arcu non. Placerat duis ultricies lacus sed turpis tincidunt.
+        </p>
+    </body>
+</html>
